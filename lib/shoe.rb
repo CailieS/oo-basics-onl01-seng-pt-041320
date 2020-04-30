@@ -10,4 +10,5 @@ class Shoe
     @brand
   end
   
+  def color
   end
