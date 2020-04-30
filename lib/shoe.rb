@@ -34,7 +34,10 @@ class Shoe
     @condition 
   end
   
-  def
+  def cobble
+    self.condition
+    puts  
+  
     
   
   
